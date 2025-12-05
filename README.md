@@ -59,7 +59,7 @@ Posicionamento: Digite a Linha (1-15), a Coluna (1-15) e a Orientação (1 para 
 
 Batalha:
 
-O tabuleiro mostra sua esquadra e a esquadra inimiga (oculta).
+O tabuleiro mostra sua esquadra e a esquadra inimiga (Visível).
 
 Digite as coordenadas para atirar.
 
