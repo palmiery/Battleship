@@ -43,7 +43,7 @@ Windows: Pode ser usado via MinGW ou WSL.
 Abra o terminal e execute:
 
 git clone [https://github.com/palmiery/Battleship.git](https://github.com/palmiery/Battleship.git)
-cd NOME_DO_REPOSITORIO
+cd Battleship
 
 2. Compilar o Projeto
 Para transformar o código em um executável, utilize o comando abaixo. Este comando informa ao compilador onde buscar os arquivos .h (pasta include) e onde estão os códigos .c (pasta src).
@@ -77,5 +77,3 @@ Vitória: O primeiro a destruir todos os 20 pontos de estrutura da esquadra inim
 
 🛠️ Tecnologias Utilizadas
 Linguagem C (Padrão C99/C11)
-
-GCC Compiler
