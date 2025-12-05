@@ -10,4 +10,5 @@
 // Recebe a matriz onde a IA vai posicionar os navios
 int ia(int matriz2[TAM][TAM]);
 
+
 #endif // IA_H_INCLUDED

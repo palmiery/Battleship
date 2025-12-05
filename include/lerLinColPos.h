@@ -10,4 +10,5 @@
 // Lê Linha, Coluna e Posição (Horizontal/Vertical) com validação
 void lerLinColPos(int *linha, int *coluna, int *pos);
 
+
 #endif // LERLINCOLPOS_H_INCLUDED

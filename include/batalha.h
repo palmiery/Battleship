@@ -10,4 +10,5 @@
 // Recebe duas matrizes: a do jogador e a do computador/inimigo
 int batalha(int matriz[TAM][TAM], int matriz2[TAM][TAM]);
 
+
 #endif // BATALHA_H_INCLUDED

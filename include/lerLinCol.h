@@ -9,4 +9,5 @@
 // Protótipo da função
 void lerLinCol(int *linha, int *coluna);
 
+
 #endif // LERLINCOL_H_INCLUDED

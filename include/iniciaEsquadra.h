@@ -9,4 +9,5 @@
 // Protótipo Corrigido: Agora recebe a matriz que deve ser inicializada
 void iniciaEsquadra(int matriz[TAM][TAM]);
 
+
 #endif // INICIAESQUADRA_H_INCLUDED

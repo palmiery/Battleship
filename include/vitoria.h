@@ -10,4 +10,5 @@
 // Verifica se alguém ganhou (contando tiros acertados '6')
 int vitoria(int matriz[TAM][TAM], int matriz2[TAM][TAM]);
 
+
 #endif // VITORIA_H_INCLUDED

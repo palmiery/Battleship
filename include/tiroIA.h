@@ -13,4 +13,5 @@ int tiroInteligenteE(int matriz[TAM][TAM], int matriz2[TAM][TAM], int l, int c);
 int tiroInteligenteD(int matriz[TAM][TAM], int matriz2[TAM][TAM], int l, int c);
 int tiroIA(int matriz[TAM][TAM], int matriz2[TAM][TAM]);
 
+
 #endif // TIROIA_H_INCLUDED

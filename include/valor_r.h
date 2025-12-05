@@ -10,4 +10,5 @@
 // Gera valores aleatórios para linha, coluna e posição
 void valor_r(int *linha, int *coluna, int *pos);
 
+
 #endif // VALOR_R_H_INCLUDED
